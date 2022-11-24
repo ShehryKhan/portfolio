@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?pb6mno');
+  src:  url('fonts/icomoon.eot?pb6mno#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pb6mno') format('truetype'),
+    url('fonts/icomoon.woff?pb6mno') format('woff'),
+    url('fonts/icomoon.svg?pb6mno#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fiverr .path1:before {
+  content: "\e901";
+  color: rgb(255, 255, 255);
+}
+.icon-fiverr .path2:before {
+  content: "\e903";
+  margin-left: -1.0166015625em;
+  color: rgb(0, 0, 0);
+}
+.icon-fiverr .path3:before {
+  content: "\e904";
+  margin-left: -1.0166015625em;
+  color: rgb(0, 0, 0);
+}
+.icon-fiverr .path4:before {
+  content: "\e905";
+  margin-left: -1.0166015625em;
+  color: rgb(0, 0, 0);
+}
+.icon-fiverr .path5:before {
+  content: "\e906";
+  margin-left: -1.0166015625em;
+  color: rgb(0, 0, 0);
+}
+.icon-fiverr .path6:before {
+  content: "\e907";
+  margin-left: -1.0166015625em;
+  color: rgb(0, 0, 0);
+}
+.icon-fiverr .path7:before {
+  content: "\e908";
+  margin-left: -1.0166015625em;
+  color: rgb(0, 0, 0);
+}
+.icon-linkedin .path1:before {
+  content: "\e909";
+  color: rgb(255, 255, 255);
+}
+.icon-linkedin .path2:before {
+  content: "\e90a";
+  margin-left: -0.9833984375em;
+  color: rgb(5, 5, 5);
+}
+.icon-linkedin .path3:before {
+  content: "\e90b";
+  margin-left: -0.9833984375em;
+  color: rgb(5, 5, 5);
+}
+.icon-linkedin .path4:before {
+  content: "\e90c";
+  margin-left: -0.9833984375em;
+  color: rgb(5, 5, 5);
+}
+.icon-upwork .path1:before {
+  content: "\e90d";
+  color: rgb(255, 255, 255);
+}
+.icon-upwork .path2:before {
+  content: "\e90e";
+  margin-left: -1.005859375em;
+  color: rgb(0, 0, 0);
+}
+.icon-menu-btn:before {
+  content: "\e900";
+}
+.icon-home3:before {
+  content: "\e902";
+}
+.icon-book:before {
+  content: "\e91f";
+}
+.icon-profile:before {
+  content: "\e923";
+}
+.icon-folder-open:before {
+  content: "\e930";
+}
+.icon-address-book:before {
+  content: "\e944";
+}
+.icon-clock2:before {
+  content: "\e94f";
+}
+.icon-bell:before {
+  content: "\e951";
+}
+.icon-tablet:before {
+  content: "\e95a";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-user-tie:before {
+  content: "\e976";
+}
+.icon-bookmarks:before {
+  content: "\e9d3";
+}
+.icon-chrome:before {
+  content: "\ead9";
+}
